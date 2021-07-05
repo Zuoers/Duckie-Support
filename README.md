@@ -1,5 +1,13 @@
-# Duckie-Support
+# ModMail Discord Bot Template!
 
-This is Duck-Supports source code. 
+- Join our discord: https://dsc.gg/Zuxces ,
 
-Feel free to use it as its open source!
+- Download Source Code,
+
+- Load up terminal and run npm i,
+
+- Fill out botsettings.json
+
+- Use node . or npm start to start the bot
+
+- Last but not least enjoy :)
