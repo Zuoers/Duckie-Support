@@ -6,7 +6,7 @@
 
 - Load up terminal and run npm i,
 
-- Fill out botsettings.json
+- Fill out config.json
 
 - Use node . or npm start to start the bot
 
